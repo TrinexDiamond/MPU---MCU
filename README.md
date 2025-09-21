@@ -1,6 +1,8 @@
 # Microprocessors-Microcontrollers
-MPU - MCU Lab for CO3009 Course of HCMUT (Semester 251)
+This is the submission site for MCU - MPU Lab class of Semester HK251
 
-STM32F103C6 is used to simulate on Proteus 8.11.
+This Repository includes 3 folders: Reports, Schematics and Source Code; opening each folder will grant you access for each separate Lab folders.
 
 This repository belongs to @TrinexDiamond - Trinh Viet Thu, Student ID: 2353157
+
+Have a nice day and enjoy your stay here ;)
