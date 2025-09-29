@@ -123,18 +123,14 @@ int main(void)
       h = 0;
     }
 
-    // Xóa hết LED trước
     clearAllClock();
 
-    // --- Kim giờ: sáng liên tục ---
     setNumberOnClock(h % 12);
 
-    // --- Kim phút: chớp chậm (1s sáng, 1s tắt) ---
     if(sec % 2 == 0){
       setNumberOnClock(min / 5);
     }
 
-    // --- Kim giây: chớp nhanh (nhấp nháy 2 lần/giây) ---
     if((sec % 2 == 0) || (sec % 2 == 1)){
       setNumberOnClock(sec / 5);
     }
@@ -222,3 +218,4 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif /* USE_FULL_ASSERT */
+
