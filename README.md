@@ -1,7 +1,7 @@
 # Microprocessors-Microcontrollers
 This is the submission site for MPU - MCU Lab class of Semester HK251.
 
-This Repository includes 3 folders: Reports, Schematics and Source Code. Opening each folders will grant you access for each separate Lab folders, inside of which contains files of my work for each exercises.
+This Repository includes 2 folders: Schematics and Source Code. Opening each folders will grant you access for each separate Lab folders, inside of which contains files of my work for each exercises.
 
 This repository belongs to @TrinexDiamond - Trinh Viet Thu, Student ID: 2353157.
 
